@@ -44,8 +44,8 @@ Building modern, scalable web applications across the frontend, backend.
 <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
 </a>
 
-<a href="[YOUR_GITHUB](https://github.com/hariom-ojha23">
-<img src="https://skillicons.dev/icons?i=github" width="40"/>
+<a href="https://github.com/hariom-ojha23">
+  <img src="https://skillicons.dev/icons?i=github" width="40"/>
 </a>
 
 </p>
@@ -55,11 +55,7 @@ Building modern, scalable web applications across the frontend, backend.
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hariom-ojha23&show_icons=true&theme=dark" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hariom-ojha23&theme=dark" />
-
+  <img src="https://streak-stats.demolab.com/?user=hariom-ojha23&theme=dark" />
 </p>
 
 ---
@@ -69,7 +65,6 @@ Building modern, scalable web applications across the frontend, backend.
 <p align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hariom-ojha23&theme=github_dark" />
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hariom-ojha23&theme=github_dark" />
 
 </p>
