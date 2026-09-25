@@ -79,7 +79,14 @@ A developer platform for **feature flags, remote configuration, progressive roll
 
 **Tech:** Angular • Nest.js • MySQL • Redis • Meilisearch • Docker
 
+### 🔹 Portfolio Builder — Developer Portfolio Creation Platform
+
+A platform that allows developers to **create, customize, and deploy professional portfolio websites using pre-built templates**, with support for configurable portfolio content, reusable React templates, and downloadable production-ready projects.
+
+**Tech:** Next.js • React • Nest.js • PostgreSQL • Tailwind CSS • shadcn/ui • Docker
+
 ---
+
 
 ## 💡 What I Work With
 
