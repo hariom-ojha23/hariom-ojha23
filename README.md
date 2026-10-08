@@ -12,7 +12,7 @@ Building modern, scalable web applications across the frontend, backend.
 
 ## 🚀 About Me
 
-- 🎯 Actively looking for Software / Full Stack Developer roles
+- 🎯 Actively looking for Software Development Engineer roles
 - 💻 Building web applications across both frontend and backend
 - 🎨 Building responsive and user-friendly web applications with React and Angular
 - ⚙️ Building backend systems with Nest.js, Node.js, Express, and REST APIs
