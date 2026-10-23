@@ -96,4 +96,4 @@ Backend         →  Node.js • Nest.js • Express • REST APIs
 Databases       →  SQL • MongoDB
 Development     →  Docker • GitHub Actions • Linux
 Tools           →  Git • GitHub • Postman
-Programming     →  JavaScript • C++
+Programming     →  JavaScript • C++ • Java
